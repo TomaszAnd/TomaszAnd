@@ -1,16 +1,21 @@
-## Hi there 👋
+# Tomasz Andrzejewski
 
-<!--
-**TomaszAnd/TomaszAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Candidate working on High-Performance Quantum Computing** · [TU Wien Atominstitut](https://ati.tuwien.ac.at/) · [ENTAQCT Group](https://quoi-theory.at/entaqct)
 
-Here are some ideas to get you started:
+I develop fault-tolerant quantum computing protocols, with a focus on quantum error correction for near-term and future hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+
+- **Lattice surgery protocols** for ion-trap quantum computers — code teleportation and logical operations between color codes and surface codes
+- **RL-assisted QEC code discovery** — reinforcement learning agents for automated search over generalized bicycle codes, with Stim-based simulation
+- **Variational qudit QEC** — discovering error-correcting codes for higher-dimensional quantum systems
+- **Quantum state reachability** — reachability analysis of quantum states as determined by 3 different criteria across qudit Hamiltonians and qubit grids ([repo](https://github.com/TomaszAnd/reachability))
+
+## Tools & Frameworks
+
+`Python` · `C++` · `Mathematica` · `Matlab` · `Stim` · `PyMatching` · `Qiskit` · `PennyLane` · `QuTiP` · `TensorFlow` · `PyTorch` · `NumPy/SciPy` · `Pandas` · `git`
+
+## Hackathons
+
+- **QHack 2021** (top 15) — qGANs for quantum portfolio optimisation ([repo](https://github.com/calumholker/quantum-portfolio-optimisation))
+- **IBM Qiskit Hackathon** — HamilToniQ: Hamiltonian simulation benchmarking ([repo](https://github.com/Louisanity/HamilToniQ))
